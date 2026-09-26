@@ -1,0 +1,16 @@
+{
+  "audio": {
+    "sample_rate": 48000,
+    "channels": 2,
+    "ring_buffer_frames": 131072,
+    "chunk_frames": 2048,
+    "default_device": "default"
+  },
+  "render": {
+    "visualizer": "industrial_meter",
+    "fps_target": 60
+  },
+  "ui": {
+    "timeline_zoom": 1.0
+  }
+}

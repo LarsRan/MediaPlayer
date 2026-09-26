@@ -1,0 +1,11 @@
+{
+  "name": "minimal-industrial",
+  "colors": {
+    "background": "#f8f8f8",
+    "surface": "#ffffff",
+    "text": "#202124",
+    "accent": "#2f6fed",
+    "muted": "#8792a2",
+    "warning": "#bc6b00"
+  }
+}
